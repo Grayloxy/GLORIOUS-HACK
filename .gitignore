@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.backup
+*.bak
+*.swp
+glorious.p
+password_checker.pyMP
+uptime_history.txt
+reports/
+.env
+auth_session/
